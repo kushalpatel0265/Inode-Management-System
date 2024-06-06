@@ -35,15 +35,15 @@ Follow these instructions to set up and run an Inode Management System project o
 3. Follow the on-screen menu to perform inode operations such as adding, finding, displaying, updating permissions, or deleting inodes.
 
 ### Example
-  ```bash
-  Inode Operations Menu:
-  1. Add Inode
-  2. Find Inode
-  3. Display Inodes
-  4. Update Permissions
-  5. Delete Inode
-  6. Exit
-  Enter your choice:
+    ```bash
+    Inode Operations Menu:
+    1. Add Inode
+    2. Find Inode
+    3. Display Inodes
+    4. Update Permissions
+    5. Delete Inode
+    6. Exit
+    Enter your choice:
 
 ## Contributing
 Contributions to this project are welcome! Please fork the repository and submit a pull request with your features or corrections.
