@@ -27,15 +27,12 @@ Follow these instructions to set up and run an Inode Management System project o
 
 ## Usage
 1. Compile the project using a C++ compiler:
-   ```bash
    g++ -o InodeManagement main.cpp
 2. Run the compiled program:
-   ```bash
    ./InodeManagement
 3. Follow the on-screen menu to perform inode operations such as adding, finding, displaying, updating permissions, or deleting inodes.
 
 ### Example
-    ```bash
     Inode Operations Menu:
     1. Add Inode
     2. Find Inode
